@@ -1,0 +1,16 @@
+{
+  "name": "묘아 · 80 songs",
+  "short_name": "묘아",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07060d",
+  "theme_color": "#07060d",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
